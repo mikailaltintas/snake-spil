@@ -1,5 +1,5 @@
 {
-    "name": "snake spil",
+    "name": "snake spil - Copy",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.59",
+        "target": "2.0.60",
         "targetId": "arcade"
     },
     "supportedTargets": [
